@@ -57,7 +57,15 @@ Data Layer (Retrofit API + Room DAO)
 2 - https://drive.google.com/file/d/1Qf3xeCCWIZ9ELVX1jfrcjODCfv6TIWR4/view?usp=sharing
 
 
+## Built with
 
+- **Kotlin** - As a programming language.
+- **Coroutines** - For multithreading while handling requests to the server and local database.
+- **Model-View-ViewModel(MVVM)** - Offers an implementation of observer design pattern.
+- **Kotlin flows** - Flow is the Kotlin type that can be used to model streams of data. Just like LiveData and RxJava streams.
+- **Retrofit** - A type-safe HTTP client for Android and Java
+- **glide** -An image loading library for Android backed by Kotlin Coroutines.
+- **Hilt** - It is arguably the most used Dependency Injection, or DI, framework for Android. Many Android projects use Dagger to simplify building and providing dependencies across the app. It gives you the ability to create specific scopes, modules, and components, where each forms a piece of a puzzle: The dependency graph.
 
 
 ---
